@@ -1,6 +1,6 @@
 
 
-LA Times Crosswords: Title
+# LA Times Crosswords: Title
 
 This is my INFO 664 Crossword Puzzle Project GitHub Repository. In this project, I have created a dataset based on the answers to the LA Times Crossword Puzzle between the years 2019-2024. I have then used this dataset to analyze thousands of crossword
 
