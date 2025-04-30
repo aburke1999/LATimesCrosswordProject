@@ -18,9 +18,9 @@ Admittedly, the original impetus for this project was because I was mad that I k
 ### Further Uses
 I believe that the crossword dataset will actually be very useful for a variety of projects moving forward. In my own project, I have only scratched the surface of the dataset, answering the most basic questions and doing initial analysis. I think there is ample opportunity for people to build on the dataset and possibly expand it. The code I used to scrape the data could easily be used to go even further back to 2012, which is when the blog was first created and could also be adapted to gather data from LAX' sister blog that gathers NYT Crossword answers for comparison. 
 
+### Files
 
-
--
--
+- BurkeCrosswordProject(1).ipynb : The python script I used to scrape data from the LAX Blog
+- LATimesCrosswordDataCSV.csv : The cleaned data including answers, authors, co-authors, co-co-authors, editors, dates, and URL
 -
 
