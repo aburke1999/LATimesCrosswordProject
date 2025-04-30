@@ -1,0 +1,2 @@
+This is my INFO 664 Crossword Puzzle Project GitHub Repository. In this project, I have created a dataset based on the answers to the LA Times Crossword Puzzle between the years 2019-2024.
+As of right now, the only items in the repository are the Python script I have used to scrape data from the original blog that held all the answers, the uncleaned CSV containing all the data, and the cleaned and usable dataset that I made using Open Refine.
