@@ -23,5 +23,5 @@ I believe that the crossword dataset will actually be very useful for a variety 
 - BurkeCrosswordProject(1).ipynb : The python script I used to scrape data from the LAX Blog
 - BurkeCrosswordDataAnalysis.ipynb : The python notebook I used to analyze my database
 - LATimesCrosswordDataCSV.csv : The cleaned data including answers, authors, co-authors, co-co-authors, editors, dates, and URL
-- Images : My folder of visualizations I created from the dataset
+- Crossword Puzzle Project Images : My folder of visualizations I created from the dataset
 
