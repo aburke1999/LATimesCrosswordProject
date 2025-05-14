@@ -20,8 +20,12 @@ I believe that the crossword dataset will actually be very useful for a variety 
 
 ### Files
 
-- BurkeCrosswordProject(1).ipynb : The python script I used to scrape data from the LAX Blog
-- BurkeCrosswordDataAnalysis.ipynb : The python notebook I used to analyze my database
-- LATimesCrosswordDataCSV.csv : The cleaned data including answers, authors, co-authors, co-co-authors, editors, dates, and URL
+- Crossword Answers CSVs : Folder containing the CSV files of just crossword puzzle answers for data analysis in Voyant
 - Crossword Puzzle Project Images : My folder of visualizations I created from the dataset
+- 2019-24crossword_data.zip : the raw scraped data used for this project
+- CrosswordDataAnalysis.ipynb : The python notebook I used to analyze my database
+- CrosswordProjectScraping.ipynb : The python script I used to scrape data from the LAX Blog
+- LATimesCrosswordDataCSV.csv : The cleaned data including answers, authors, co-authors, co-co-authors, editors, dates, and URL
+- ReadME.md : Self-explanatory
+- history.json : the Open Refine cleaning history for this dataset
 
