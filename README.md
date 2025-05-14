@@ -1,6 +1,6 @@
 
 
-# LA Times Crosswords: Title
+# LA Times Crosswords: A Data Gathering Project
 
 
 ### Description
